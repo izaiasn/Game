@@ -13,7 +13,7 @@ public class Enemy {
         System.out.println("/------------- Cadastro Inimigo -------------");
         System.out.println("Infome o nome do Inimigo: ");
         nome = teclado.nextLine();
-        System.out.println(" Informe a Skin do Inimigo: ");
+        System.out.println("Informe a Skin do Inimigo: ");
         skin = teclado.nextLine();
         System.out.println("/-------------------------------------------");
 

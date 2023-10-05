@@ -21,7 +21,7 @@ public class Player {
         System.out.println("/------------- Cadastro Player -------------");
         System.out.println("Infome o nome: ");
         nome = teclado.nextLine();
-        System.out.println(" Informe a Skin: ");
+        System.out.println("Informe a Skin: ");
         skin = teclado.nextLine();
         System.out.println("/-------------------------------------------");
     }
